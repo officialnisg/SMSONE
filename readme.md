@@ -143,12 +143,12 @@ Another School Management System build with Laravel and PHP 7
   ```
 
   ```
-  $ git clone https://github.com/hrshadhin/school-management-system.git cloudschool
+  $ git clone https://github.com/officialnisg/SMSONE.git
   ```
 
 - change directory
   ```
-  $ cd cloudschool
+  $ cd SMSONE
   ```
 - Copy sample `env` file and change configuration according to your need in ".env" file and create Database
   ```
@@ -224,7 +224,7 @@ Another School Management System build with Laravel and PHP 7
 
 [:arrow_up: Back to top](#index)
 
-- [http://ug.cloudschoolbd.com](http://ug.cloudschoolbd.com)
+- nelsonict.org.ng/smsone
 
 ## Timeline
 
@@ -265,8 +265,8 @@ A big shout out to all the contributers, more specifically to these guys
 [:arrow_up: Back to top](#index)
 
 - If you faced any problems, first check previous issue list. If doesn't exists then create a new one.
-- You can report the bugs at the [issue tracker](https://github.com/hrshadhin/school-management-system/issues)
-- If you discover a security vulnerability within CloudSchool app, please send an e-mail to [sos@cloudschoolbd.com](mailto:sos@cloudschoolbd.com). All security vulnerabilities will be promptly addressed.
+- You can report the bugs at the [issue tracker](https://github.com/officialnisg/SMSONE/issues)
+- If you discover a security vulnerability within CloudSchool app, please send an e-mail to [support@nelsonict.org.ng](mailto:support@nelsonict.org.ng). All security vulnerabilities will be promptly addressed.
 
 ## License
 
